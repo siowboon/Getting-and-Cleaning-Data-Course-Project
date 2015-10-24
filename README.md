@@ -4,7 +4,7 @@ a) run_analysis.R
 b) codebook.md  
 
 ## run_analysis.R
-This function performs the following tasks required by the Course Project:  
+This function performs the following tasks required by the course project:  
 a) Merges the training and the test sets to create one data set.  
 b) Extracts only the measurements on the mean and standard deviation for each measurement.   
 c) Uses descriptive activity names to name the activities in the data set.  
@@ -25,4 +25,4 @@ This function requires the following Samsung data files to be in the working dir
 This function generates the output tiny data set (tiny_data.txt) in the working directory.
 
 ## codebook.md
-This is the code Book describing each variable and its values in the tidy data set.
+This is the Code Book describing each variable and its values in the tidy data set.

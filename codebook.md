@@ -1,14 +1,14 @@
 ## Code Book of tiny_data.txt
-This code book describes the variables in the tidy data set file (tiny_data.txt) generated as part of 
+This Code Book describes the variables in the tidy data set file (tiny_data.txt) generated as part of 
 the Getting and Cleaning Data Course Project.  
 
 The data file consists of 180 rows of data generated from the 6 activities performed by 30 subjects. 
 Each row contains the following variables (i.e. columns):  
 
-- Subject: ID of the subject performing the activity. 1 to 30.
-- Activity: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS or WALKING_UPSTAIRS.
-- Average of the 66 mean and standard deviation measurements under each subject and activity pair. 
-Their values are normalized and bounded within [-1,1].  
+- Subject: ID of the subject performing the activity. 1 to 30.  
+- Activity: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS or WALKING_UPSTAIRS.  
+- Average of the 66 mean and standard deviation measurements under each subject and activity pair. Their
+values are normalized and bounded within [-1,1].  
 
 1. tBodyAccMeanX
 2. tBodyAccMeanY
